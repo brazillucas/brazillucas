@@ -5,7 +5,7 @@
 - 🔭 Estou procurando por *estágio*
 - 🌱 Atualmente estou estudando JavaScript
 - 📫 Como entrar em contato comigo: lcardosodev@gmail.com
-- 😄 Pronome: ele/dele
+- 😄 Pronomes: ele/dele
 <!-- - ⚡ Fun fact: ... -->
  
 <div align="center">
