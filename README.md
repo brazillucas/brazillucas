@@ -1,10 +1,12 @@
-## Olá, eu sou Lucas Cardoso, um estudante do curso de Sistemas de Informação do IFNMG - Campus Januária
+## Olá👋🏻
+# Eu sou Lucas Cardoso
+## Sou estudante do curso de Sistemas de Informação do IFNMG - Campus Januária
 
-- 🔭 I’m currently looking for an *internship*
-- 🌱 I’m currently learning JavaScript, Python and Java
-- 📫 How to reach me: lcardosodev@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...
+- 🔭 Estou procurando por *estágio*
+- 🌱 Atualmente estou estudando JavaScript
+- 📫 Como entrar em contato comigo: lcardosodev@gmail.com
+- 😄 Pronome: ele/dele
+<!-- - ⚡ Fun fact: ... -->
  
 <div align="center">
   <a href="https://github.com/brazillucas">
@@ -14,8 +16,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
-  <img align="center" alt="Lucas-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">  
+  <img align="center" alt="Lucas-Django" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png">
+  <img align="center" alt="Lucas-Pandas" height="30" width="40" src="https://pandas.pydata.org/static/img/pandas_white.svg">  
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
