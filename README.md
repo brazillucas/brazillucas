@@ -1,11 +1,11 @@
 ## Olá👋🏻
 # Eu sou Lucas Cardoso
-## Sou estudante do curso de Sistemas de Informação do IFNMG - Campus Januária
+## Sou estudante do curso de Sistemas de Informação do IFMG - Campus Ouro Branco
 
-- 🔭 Estou procurando por *estágio*
-- 🌱 Atualmente estou estudando JavaScript
+<!-- - 🔭 Estou procurando por *estágio* -->
+- 🌱 Atualmente estou estudando JavaScript e Java
 - 📫 Como entrar em contato comigo: lcardosodev@gmail.com
-- 😄 Pronomes: ele/dele
+<!-- - 😄 Pronomes: ele/dele -->
 <!-- - ⚡ Fun fact: ... -->
  
 <div align="center">
