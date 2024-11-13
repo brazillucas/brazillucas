@@ -35,7 +35,7 @@
   ![Snake animation](https://github.com/brazillucas/brazillucas/blob/output/github-contribution-grid-snake.svg)
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/brazillucas/brazillucas/aa479adb1f3aaa4628a30c4a439804e546e7aaf9/github-snake.svg)" />
    <img alt="github-snake" src="github-snake.svg" />
   </picture>
 
